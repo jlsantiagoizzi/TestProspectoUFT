@@ -1,0 +1,1 @@
+﻿RunAction "Installation", allIterations

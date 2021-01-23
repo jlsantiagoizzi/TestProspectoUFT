@@ -1,0 +1,7 @@
+﻿<Properties>
+  <WatchEntry0 value="Environment.value(&quot;gURLSiebelQA&quot;)" />
+  <WatchEntry1 value="i" />
+  <WatchEntry2 value="ItemsRowCount" />
+  <WatchEntry3 value="intLastRowList" />
+  <WatchEntry4 value="ItemsRowcountTotal" />
+</Properties>
